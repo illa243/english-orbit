@@ -1,0 +1,216 @@
+[
+  {
+    "file": "female-01.png",
+    "generator": "built-in imagegen",
+    "source": "exec-76da0113-83f5-4ca3-a3ef-3cc17bfccd9e.png"
+  },
+  {
+    "file": "female-02.png",
+    "generator": "built-in imagegen",
+    "source": "exec-2ac65c8f-0bf8-4bb5-8c94-acf151bfce92.png"
+  },
+  {
+    "file": "female-03.png",
+    "generator": "built-in imagegen",
+    "source": "exec-9cdd7570-c92e-42f9-b0a6-b52f2aa84048.png"
+  },
+  {
+    "file": "female-04.png",
+    "generator": "built-in imagegen",
+    "source": "exec-c643e814-0f32-4c4f-b296-22072aa3c9e5.png"
+  },
+  {
+    "file": "female-05.png",
+    "generator": "built-in imagegen",
+    "source": "exec-c429fe77-45be-406d-959d-978a7e7e49e6.png"
+  },
+  {
+    "file": "female-06.png",
+    "generator": "built-in imagegen",
+    "source": "exec-04d8d4be-dde0-46df-8ac6-f70531186579.png"
+  },
+  {
+    "file": "female-07.png",
+    "generator": "built-in imagegen",
+    "source": "exec-15a44c1b-e226-43b1-a404-12b712e5c53b.png"
+  },
+  {
+    "file": "female-08.png",
+    "generator": "built-in imagegen",
+    "source": "exec-8e6da986-6ec0-4dd3-b752-79fdb6fc22c6.png"
+  },
+  {
+    "file": "female-09.png",
+    "generator": "built-in imagegen",
+    "source": "exec-9c70550e-cfe9-4ffc-8050-a38d03517d7e.png"
+  },
+  {
+    "file": "female-10.png",
+    "generator": "built-in imagegen",
+    "source": "exec-9eb8b3d8-8e1f-49fc-ae3e-1e3a56de077c.png"
+  },
+  {
+    "file": "female-11.png",
+    "generator": "built-in imagegen",
+    "source": "exec-1c21322a-444b-474d-9c7a-ab5d1f1cbbac.png"
+  },
+  {
+    "file": "female-12.png",
+    "generator": "built-in imagegen",
+    "source": "exec-0192ca43-0dd4-4ac3-87b8-e48d9b2909ac.png"
+  },
+  {
+    "file": "female-13.png",
+    "generator": "built-in imagegen",
+    "source": "exec-382d12cd-9133-4d0a-b2d1-3155d1083431.png"
+  },
+  {
+    "file": "female-14.png",
+    "generator": "built-in imagegen",
+    "source": "exec-1d701aa6-8d9e-4489-9378-1d13dd91e26c.png"
+  },
+  {
+    "file": "female-15.png",
+    "generator": "built-in imagegen",
+    "source": "exec-5e974840-f40b-40fb-82c9-fe5f35bdb08f.png"
+  },
+  {
+    "file": "female-16.png",
+    "generator": "built-in imagegen",
+    "source": "exec-7e31c29a-efec-4a7d-9beb-ce4155e9fe34.png"
+  },
+  {
+    "file": "female-17.png",
+    "generator": "built-in imagegen",
+    "source": "exec-d25c3a6e-6a11-4900-81a5-01bdd3d32549.png"
+  },
+  {
+    "file": "female-18.png",
+    "generator": "built-in imagegen",
+    "source": "exec-a945c5de-8cd1-485f-8840-37d0d82e1d36.png"
+  },
+  {
+    "file": "female-19.png",
+    "generator": "built-in imagegen",
+    "source": "exec-41d51560-81fc-4e3d-ad9f-b57c01223d61.png"
+  },
+  {
+    "file": "female-20.png",
+    "generator": "built-in imagegen",
+    "source": "exec-043bafc3-c700-40ef-8840-7fd670d6bd67.png"
+  },
+  {
+    "file": "male-01.png",
+    "generator": "built-in imagegen",
+    "source": "exec-5b3e7b84-9cab-4780-8e9d-ac8f15a119be.png"
+  },
+  {
+    "file": "male-02.png",
+    "generator": "built-in imagegen",
+    "source": "exec-57ab3c2e-dc90-4100-8b25-2363a05dc5f4.png"
+  },
+  {
+    "file": "male-03.png",
+    "generator": "built-in imagegen",
+    "source": "exec-835eb592-7214-44bb-8138-7743d86f9445.png"
+  },
+  {
+    "file": "male-04.png",
+    "generator": "built-in imagegen",
+    "source": "exec-ecf5f9eb-42fb-444b-8dad-13d85d53a967.png"
+  },
+  {
+    "file": "male-05.png",
+    "generator": "built-in imagegen",
+    "source": "exec-fb400736-5dc8-4daf-a7c6-6dda474f54be.png"
+  },
+  {
+    "file": "male-06.png",
+    "generator": "built-in imagegen",
+    "source": "exec-94b440d8-f1e6-4754-8cc8-ee65944ed4b1.png"
+  },
+  {
+    "file": "male-07.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: short blond hair, freckles, age 25, denim shirt. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-4b72dbde-4663-49fa-bdf8-d9023d0751cd.png"
+  },
+  {
+    "file": "male-08.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: salt and pepper hair, short beard, age 51, blue knit. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-bb0e4d67-1aca-4cd3-8113-c2926e567331.png"
+  },
+  {
+    "file": "male-09.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: bald head, brown skin, round glasses, age 44, charcoal shirt. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-57462b1e-7b69-4027-b17c-96b0b4f11f55.png"
+  },
+  {
+    "file": "male-10.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: brown curly hair, round glasses, age 23, gray hoodie. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-e1689a79-240b-453f-a4a9-9021a3bfab32.png"
+  },
+  {
+    "file": "male-11.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: dark cropped hair, olive skin, clean shaven, age 40, linen shirt. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-3e926c6f-7063-4656-92b7-94b3913c86a6.png"
+  },
+  {
+    "file": "male-12.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: silver hair, fair skin, age 60, blue cardigan. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-a2b25d52-162a-46f3-90c7-d04a789b9190.png"
+  },
+  {
+    "file": "male-13.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: short black hair, East Asian appearance, age 46, olive jacket. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-60484761-8c71-414e-8b63-a7fc3260d050.png"
+  },
+  {
+    "file": "male-14.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: dark hair, South Asian appearance, neatly trimmed beard, age 28, teal tee. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-85c574a9-b0fd-42de-9340-53a97967e557.png"
+  },
+  {
+    "file": "male-15.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: black short curls, dark brown skin, age 38, denim jacket. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-f734bef8-f7d5-4219-b924-4681e8ad732e.png"
+  },
+  {
+    "file": "male-16.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: light brown hair, stubble, age 33, cream sweater. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-7b2c14a8-64b3-4339-8c01-2021b0e30e7b.png"
+  },
+  {
+    "file": "male-17.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: brown receding hair, age 49, red casual shirt. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-60fb2b1a-9ea9-4af7-8b1b-3ad341fbfef9.png"
+  },
+  {
+    "file": "male-18.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: long dark hair tied back, olive skin, age 31, dark green tee. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-4fc1b496-ecd3-41e5-9c68-43998b69b6b2.png"
+  },
+  {
+    "file": "male-19.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: short blond hair, stocky face, age 43, navy polo. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-65b621fa-08e0-444b-a7b2-656fac60d6e4.png"
+  },
+  {
+    "file": "male-20.png",
+    "generator": "built-in imagegen",
+    "prompt": "One square natural photorealistic head-and-shoulders profile portrait of a fictional adult man: dark brown hair, trimmed beard, age 35, brown casual shirt. Authentic everyday casual person, realistic skin texture, slight smile, soft natural daylight. Softly blurred home or outdoor background. Centered full head with safe circular-crop margins. No text, logos, watermark or celebrity likeness. Square 512x512.",
+    "source": "exec-dfb45fe7-bec9-4674-befe-28ad0d33c797.png"
+  }
+]

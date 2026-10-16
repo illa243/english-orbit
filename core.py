@@ -66,6 +66,10 @@ class Store(LearningStore):
         if not self.rows('SELECT id FROM agents'):
             for aid, name, topic, color, avatar, instructions in PERSONAS:
                 self.execute('INSERT INTO agents VALUES(?,?,?,?,?,?,?,?,1)', (aid,name,topic,color,avatar,instructions,'ChatGPT',''))
+        for aid, filename in [('mia','female-01.png'),('leo','male-01.png'),('emma','female-02.png')]:
+            portrait=ROOT/'assets/avatars'/filename
+            if portrait.is_file():
+                self.execute("UPDATE agents SET avatar=? WHERE id=? AND avatar IN ('','M','L','E')",(str(portrait),aid))
 
     def connect(self):
         db = sqlite3.connect(self.path, timeout=15)

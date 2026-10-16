@@ -185,7 +185,10 @@ class AgentDialog(QDialog):
         path,_=QFileDialog.getOpenFileName(self,'Інструкції','','Markdown (*.md)')
         if path:self.instructions.setPlainText(Path(path).read_text(encoding='utf-8-sig'))
     def choose_avatar(self):
-        path,_=QFileDialog.getOpenFileName(self,'Аватар','','Зображення (*.png *.jpg *.webp)')
+        from avatar_gallery import AvatarGallery
+        gallery=AvatarGallery(self)
+        if gallery.exec()!=QDialog.Accepted:return
+        path=gallery.selected_path
         if path:
             dest=ROOT/'data'/('agent-avatar-'+uid()+'.png');pix=QPixmap(path)
             if not pix.isNull():pix.scaled(160,160,Qt.AspectRatioMode.KeepAspectRatio,Qt.TransformationMode.SmoothTransformation).save(str(dest));self.avatar_path=str(dest)
@@ -629,7 +632,7 @@ class MainWindow(ChatView,QMainWindow):
         try:
             import winreg
             with winreg.OpenKey(winreg.HKEY_CURRENT_USER,r'Software\Microsoft\Windows\CurrentVersion\Run',0,winreg.KEY_SET_VALUE) as key:
-                if enabled:winreg.SetValueEx(key,'EnglishOrbit',0,winreg.REG_SZ,f'"{ROOT / ".qt-env/Scripts/pythonw.exe"}" "{ROOT / "main.py"}" --tray')
+                if enabled:winreg.SetValueEx(key,'EnglishOrbit',0,winreg.REG_SZ,f'"{Path(sys.executable).with_name("pythonw.exe")}" "{ROOT / "main.py"}" --tray')
                 else:
                     try:winreg.DeleteValue(key,'EnglishOrbit')
                     except FileNotFoundError:pass
