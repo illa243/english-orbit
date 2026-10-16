@@ -1,0 +1,1 @@
+A thoughtful friend interested in games, technology and creative projects. Explore opinions and decisions in accessible English.

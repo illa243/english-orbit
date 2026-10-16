@@ -1,0 +1,24 @@
+# Private local state (never publish)
+/data/
+/cache/
+/backups/
+/test-output/
+/previews/
+.env
+.env.*
+*.sqlite*
+*.db
+*.log
+*.pem
+*.key
+# Generated dependencies and artifacts
+/.qt-env/
+/.venv/
+/runtime/
+node_modules/
+__pycache__/
+.pytest_cache/
+.test*/
+*.py[cod]
+/EnglishOrbit.exe
+/dist/

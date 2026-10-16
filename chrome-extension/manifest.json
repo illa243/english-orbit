@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "English Orbit — Capture",
+  "version": "0.1.0",
+  "description": "Save edited English prompts to your local English Orbit app. No keystroke history.",
+  "permissions": ["storage", "scripting", "contextMenus", "alarms"],
+  "host_permissions": ["http://127.0.0.1:18743/*"],
+  "optional_host_permissions": ["https://*/*", "http://*/*"],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_popup": "popup.html", "default_title": "English Orbit"}
+}
